@@ -1,5 +1,5 @@
 body {
-  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  font-family: 'Trebuchet MS', 'Tahoma, sans-serif;
   background-image: url("table.png");
   background-size: cover;
   text-align: center;
@@ -15,7 +15,7 @@ h1 {
 }
 
 button {
-  background: goldenrod;
+  background-color: goldenrod;
   width: 150px;
   color: #016f32;
 }
